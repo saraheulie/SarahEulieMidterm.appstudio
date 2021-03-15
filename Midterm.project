@@ -25,6 +25,38 @@
             "animals",
             "animals.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "animalEC",
+            "animalEC.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "bucketList",
+            "bucketList.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "calculate",
+            "calculate.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "calculateEC",
+            "calculateEC.json"
+          ]
         }
       ],
       "configxml": null,
@@ -46,7 +78,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "Form1",
+      "firstform": "animals",
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",
