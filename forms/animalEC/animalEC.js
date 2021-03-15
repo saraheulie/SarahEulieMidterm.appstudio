@@ -1,4 +1,4 @@
- let myAnimals = ['dog','cat','horse','meerkat']
+myAnimals = ['dog','cat','horse','meerkat']
  
  for (let i= 0; i<=1; i++){
      name = (prompt('Name an animal:').toLowerCase())
