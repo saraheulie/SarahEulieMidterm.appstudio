@@ -5,7 +5,7 @@ function calcAvgSquare(a, b, c){
 function divideTwo(a,b){
   return a%b
   }
-input= prompt('Do you want to do an average calculation or a remainder of the division of two numbers calculation. \n Type 1 for the average calculation or type 2 for the remainder calculation.')
+input= prompt('Do you want to do an average calculation or a remainder of the division of two numbers calculation.\n Type 1 for the average calculation or type 2 for the remainder calculation.')
 
 if (input === "1"){
   num1 = Number(prompt('Enter a numnber'))
